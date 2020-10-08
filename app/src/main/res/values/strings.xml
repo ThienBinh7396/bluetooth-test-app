@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BluetoothTestApp</string>
+  <string name="scan_device">Scan device</string>
+  <string name="start_counting">Start Counting</string>
+  <string name="pause_counting">Pause Counting</string>
+  <string name="clear_counting">Clear Counting</string>
 </resources>
